@@ -33,19 +33,19 @@ User → CloudFront → S3 Static Website
 
 ### Portfolio Homepage
 
-![Homepage](screenshots/homepage.png)
+![Homepage](screenshots/homepage.png.png)
 
 ### S3 Static Website Hosting
 
-![S3 Hosting](screenshots/s3-hosting.png)
+![S3 Hosting](screenshots/s3-hosting.png.png)
 
 ### CloudFront Distribution
 
-![CloudFront](screenshots/cloudfront.png)
+![CloudFront](screenshots/cloudfront.png.png)
 
 ### Live Website
 
-![Live Website](screenshots/live-website.png)
+![Live Website](screenshots/live-website.png.png)
 ## Author
 
 Shlok Singh
