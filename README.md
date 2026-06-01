@@ -45,7 +45,7 @@ User → CloudFront → S3 Static Website
 
 ### Live Website
 
-![Live Website](screenshots/live-website.png.png)
+![Live Website](screenshots/Cloudfront-url.png.png)
 ## Author
 
 Shlok Singh
